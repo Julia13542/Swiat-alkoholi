@@ -1,0 +1,10 @@
+C:\Users\JulkaKulka\source\repos\Swiat alkoholi\Swiat alkoholi\bin\Debug\Swiat alkoholi.exe.config
+C:\Users\JulkaKulka\source\repos\Swiat alkoholi\Swiat alkoholi\bin\Debug\Swiat alkoholi.exe
+C:\Users\JulkaKulka\source\repos\Swiat alkoholi\Swiat alkoholi\bin\Debug\Swiat alkoholi.pdb
+C:\Users\JulkaKulka\source\repos\Swiat alkoholi\Swiat alkoholi\obj\Debug\Swiat alkoholi.csproj.AssemblyReference.cache
+C:\Users\JulkaKulka\source\repos\Swiat alkoholi\Swiat alkoholi\obj\Debug\Swiat_alkoholi.Form1.resources
+C:\Users\JulkaKulka\source\repos\Swiat alkoholi\Swiat alkoholi\obj\Debug\Swiat_alkoholi.Properties.Resources.resources
+C:\Users\JulkaKulka\source\repos\Swiat alkoholi\Swiat alkoholi\obj\Debug\Swiat alkoholi.csproj.GenerateResource.cache
+C:\Users\JulkaKulka\source\repos\Swiat alkoholi\Swiat alkoholi\obj\Debug\Swiat alkoholi.csproj.CoreCompileInputs.cache
+C:\Users\JulkaKulka\source\repos\Swiat alkoholi\Swiat alkoholi\obj\Debug\Swiat alkoholi.exe
+C:\Users\JulkaKulka\source\repos\Swiat alkoholi\Swiat alkoholi\obj\Debug\Swiat alkoholi.pdb
